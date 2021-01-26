@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe0869b6-b835-4859-a9d0-7db9dd510a32" name="Default Changelist" comment="" />
+    <list default="true" id="fe0869b6-b835-4859-a9d0-7db9dd510a32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/rest/src/test/resources/accounts.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/rest/src/test/resources/accounts.schema.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +43,28 @@
       <option name="presentableId" value="Default" />
       <updated>1611666343801</updated>
     </task>
+    <task id="LOCAL-00001" summary="added schema">
+      <created>1611669866233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611669866233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added schema" />
+    <option name="LAST_COMMIT_MESSAGE" value="added schema" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1611669865070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611669865070" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1611669875538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611669875538" />
   </component>
 </project>
